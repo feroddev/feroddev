@@ -1,5 +1,6 @@
 # Felipe Rodrigues
 Meu background como Designer Gráfico me proporcionou uma sensibilidade estética e uma abordagem criativa única, que acredito ser valiosa na criação de interfaces intuitivas e agradáveis para os usuários. Aprendi a trabalhar de forma autônoma e lidar com prazos apertados, habilidades que considero fundamentais para o mundo da tecnologia.
+Desde então tenho me dedicado intensamente aos estudos e práticas do mundo da programação, com um foco especial em desenvolvimento web. Experiência em React, Next.js, Node.js, Python, CSS, SQL, NoSQL e TypeScript. Aplico metodologias ágeis (Scrum, Kanban), sprints e aprimoramento contínuo. Comprometido com interfaces intuitivas e experiências de usuário excepcionais.
 
 ### Conecte-se comigo
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:neath.felipe@gmail.com)
