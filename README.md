@@ -6,7 +6,6 @@ Prazer, sou o Felipe tenho 28 anos, sou desenvolvedor Fullstack! Atuei como desi
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/feroddev/) 
 
 ## Habilidades
-Aqui estão as habilidades organizadas em categorias em formato Markdown:
 
 #### Desenvolvimento Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
